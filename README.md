@@ -13,7 +13,9 @@ The presentation can be downloaded and used by following the given steps:
 3)Now to view the presentation open the following html files in a webbrowser:
 
 a) ANN presentation.html : consists of all the slides for the presentation.Open it in a webbrowser.Now use space bar and arrow keys for moving forward and backward through the slides.
+
 b)av1.html,av2.html,av3.html : they consists of very small clips showing working of a biological neural network,a single pitts-Mecculloch model and a neural network.
+
 c)face.html : consists of a image that can be used to expain the difference between human intelligence and machine intelligence on performing tasks.
 
 The complete seminar report is available here :
